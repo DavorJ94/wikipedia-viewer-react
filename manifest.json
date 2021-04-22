@@ -1,0 +1,15 @@
+{
+  "short_name": "Wikipedia Viewer",
+  "name": "Wikipedia article viewer created in React and tested with Jest and React testing library",
+  "icons": [
+    {
+      "src": "wikipedia-logo.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
