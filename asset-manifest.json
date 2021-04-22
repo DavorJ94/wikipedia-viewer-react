@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/wikipedia-viewer/static/css/main.3c997f66.chunk.css",
-    "main.js": "/wikipedia-viewer/static/js/main.e7936d0d.chunk.js",
-    "main.js.map": "/wikipedia-viewer/static/js/main.e7936d0d.chunk.js.map",
-    "runtime-main.js": "/wikipedia-viewer/static/js/runtime-main.829c71b5.js",
-    "runtime-main.js.map": "/wikipedia-viewer/static/js/runtime-main.829c71b5.js.map",
-    "static/js/2.2ab9e63f.chunk.js": "/wikipedia-viewer/static/js/2.2ab9e63f.chunk.js",
-    "static/js/2.2ab9e63f.chunk.js.map": "/wikipedia-viewer/static/js/2.2ab9e63f.chunk.js.map",
-    "index.html": "/wikipedia-viewer/index.html",
-    "static/css/main.3c997f66.chunk.css.map": "/wikipedia-viewer/static/css/main.3c997f66.chunk.css.map",
-    "static/js/2.2ab9e63f.chunk.js.LICENSE.txt": "/wikipedia-viewer/static/js/2.2ab9e63f.chunk.js.LICENSE.txt"
+    "main.css": "/wikipedia-viewer-react/static/css/main.3c997f66.chunk.css",
+    "main.js": "/wikipedia-viewer-react/static/js/main.e7936d0d.chunk.js",
+    "main.js.map": "/wikipedia-viewer-react/static/js/main.e7936d0d.chunk.js.map",
+    "runtime-main.js": "/wikipedia-viewer-react/static/js/runtime-main.76c7e85c.js",
+    "runtime-main.js.map": "/wikipedia-viewer-react/static/js/runtime-main.76c7e85c.js.map",
+    "static/js/2.2ab9e63f.chunk.js": "/wikipedia-viewer-react/static/js/2.2ab9e63f.chunk.js",
+    "static/js/2.2ab9e63f.chunk.js.map": "/wikipedia-viewer-react/static/js/2.2ab9e63f.chunk.js.map",
+    "index.html": "/wikipedia-viewer-react/index.html",
+    "static/css/main.3c997f66.chunk.css.map": "/wikipedia-viewer-react/static/css/main.3c997f66.chunk.css.map",
+    "static/js/2.2ab9e63f.chunk.js.LICENSE.txt": "/wikipedia-viewer-react/static/js/2.2ab9e63f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.829c71b5.js",
+    "static/js/runtime-main.76c7e85c.js",
     "static/js/2.2ab9e63f.chunk.js",
     "static/css/main.3c997f66.chunk.css",
     "static/js/main.e7936d0d.chunk.js"
