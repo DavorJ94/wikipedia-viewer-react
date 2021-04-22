@@ -1,8 +1,8 @@
 import React from "react";
 
 export default function SearchBox({
-  articles,
-  searchQuery,
+  articles = 0,
+  searchQuery = "",
   handleQueryChange,
   handleReset,
 }) {
