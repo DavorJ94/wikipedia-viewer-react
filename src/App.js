@@ -12,7 +12,7 @@ function App() {
       if (searchQuery === "") return;
       if (e.key === "Enter" || e.keyCode === 13) {
         const response = await fetch(
-          `https://en.wikipedia.org/w/api.php?format=json&action=query&generator=search&gsrlimit=10&prop=extracts&exintro&explaintext&exsentences=2&gsrsearch=${searchQuery}`
+          `https://en.wikipedia.org/w/api.php?format=json&action=query&generator=search&origin=*&gsrlimit=10&prop=extracts&exintro&explaintext&exsentences=2&gsrsearch=${searchQuery}`
         );
         const data = await response.json();
         setArticles(Object.values(data.query.pages));
